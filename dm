@@ -1,0 +1,59 @@
+Data migration
+
+1: Understand the data
+	-data standards
+	-data health
+	-how will the data be used tomorrow 
+	- what is missing
+	-de-duplicate
+	-transform
+	
+	Validation:
+		-relevance
+		-accuracy
+		-integrity
+		-consistency
+		-validity
+		-accesibility
+		
+	why validations:
+		-improved corporate performance
+		-increased compettitive advantage
+		-reduced uncerteainity & risk
+		-reduced delays & waiting time
+		-measurable & accute view of data
+		-better accountability
+
+2: Extraction of data
+	-move data from a db to excel 									|
+													|
+3: transformation											|		
+	-match the data to its new forms; and ensure that metadata reflects the data in each fiesld	|
+													|
+4: Cleansing												|
+	-de-duplicate;											|
+	-run tests											|
+	-address any corrupted data(we can use maching learning(cognitive bots) here)			|	RECOVERY Options at every stage of the migration
+													|
+5: validation												|
+	-test and re-test that moving data to the target location provides the expected response	|	data security as well
+													|
+6: Loading the data into the new system									|
+	-transfer the data into the new system and review for errors again				|
+	-transfer of the data will be happeneing on weekends and bank holidays				|
+													|
+	migration designs 										|
+		- how data is transformed into the target stucture					|
+
+
+
+extract data form excel and inject that into database;
+
+removing;
+moving-
+
+transform.                               m to male
+
+
+enrich:-
+

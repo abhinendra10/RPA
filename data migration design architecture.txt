@@ -1,0 +1,112 @@
+Data migration
+
+1: Understand the data
+	-data standards
+	-data health
+	-how will the data be used tomorrow 
+	- what is missing
+	-de-duplicate
+	-transform
+	
+	Validation:
+		-relevance
+		-accuracy
+		-integrity
+		-consistency
+		-validity
+		-accesibility
+		
+	why validations:
+		-improved corporate performance
+		-increased compettitive advantage
+		-reduced uncerteainity & risk
+		-reduced delays & waiting time
+		-measurable & accute view of data
+		-better accountability
+
+2: Extraction of data
+	-move data from a db to excel 									|
+													|
+3: transformation											|		
+	-match the data to its new forms; and ensure that metadata reflects the data in each fields	|
+													|
+4: Cleansing												|
+	-de-duplicate;											|
+	-run tests											|
+	-address any corrupted data(we can use maching learning(cognitive bots) here)			|	RECOVERY Options at every stage of the migration
+													|
+5: validation												|
+	-test and re-test that moving data to the target location provides the expected response	|	data security as well
+													|
+6: Loading the data into the new system									|
+	-transfer the data into the new system and review for errors again				|
+	-transfer of the data will be happeneing on weekends and bank holidays				|
+													|
+	migration designs 										|
+		- how data is transformed into the target stucture					|
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		stage 1:move student address information after validation and look zip code
+
+
+
+stage 2: move academic info as-is
+
+
+
+stage 3: identify missing info and aggregate those info external sources 
+
+
+
+stage 4: identify redundant or info that can be derived and then remove them before ingestion
+
+
+
+phase 1: extract the data from a excel
+
+
+phase 2: extract data from multiple dbs
+
+
+phase 3: iq bot(cognitive ablities for enriching data)
+
+
+
+**************************************************************************************************************************************************************
+
+when creating a document:
+	=>who's gonna read the doc
+	=>what is that person gonna get out of it
+	**=>why are you creating it?**
+	**=>for whom you are creating it?**
+
+#go to the detailed level.
+
+	
+	#move the data from excel to to registration application#
+		3 ways: -db query
+			-db browser
+			-opening application
+
+highlights- trasformation
+	- 
+
