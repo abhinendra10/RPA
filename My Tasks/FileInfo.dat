@@ -2,9 +2,9 @@
 <Entities>
   <Entity Name="t1.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/16/2020 13:08:57</Property>
-      <Property Name="RunDuration">00:00:05</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">04/16/2020 15:31:08</Property>
+      <Property Name="RunDuration">00:00:22</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
 </Entities>

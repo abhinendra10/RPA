@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="1.Open Transfer workbook and Validate amount.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/28/2020 11:47:48</Property>
+      <Property Name="RunDuration">00:09:46</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="4.Lookup Open Transfers in Frontier.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/28/2020 11:21:30</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="2. Open JE Template.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/20/2020 16:37:52</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="3.Update JE Template.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/20/2020 16:40:30</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="5.Input Open Items in JE.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/28/2020 11:37:51</Property>
+      <Property Name="RunDuration">00:02:20</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
