@@ -35,4 +35,11 @@
       <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
+  <Entity Name="6.Run Macro.atmx">
+    <Properties>
+      <Property Name="LastRunTime">05/28/2020 14:03:14</Property>
+      <Property Name="RunDuration">00:00:46</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
 </Entities>
