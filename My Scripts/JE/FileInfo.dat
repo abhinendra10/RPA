@@ -2,8 +2,8 @@
 <Entities>
   <Entity Name="1.Open Transfer workbook and Validate amount.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/29/2020 02:01:11</Property>
-      <Property Name="RunDuration">00:01:10</Property>
+      <Property Name="LastRunTime">06/04/2020 12:42:13</Property>
+      <Property Name="RunDuration">00:03:27</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -16,50 +16,50 @@
   </Entity>
   <Entity Name="2. Open JE Template.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/29/2020 02:01:08</Property>
-      <Property Name="RunDuration">00:00:32</Property>
+      <Property Name="LastRunTime">06/04/2020 12:42:12</Property>
+      <Property Name="RunDuration">00:02:48</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="3.Update JE Template.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/29/2020 02:01:08</Property>
-      <Property Name="RunDuration">00:00:31</Property>
+      <Property Name="LastRunTime">06/04/2020 12:42:12</Property>
+      <Property Name="RunDuration">00:02:48</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="5.Input Open Items in JE.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/28/2020 11:37:51</Property>
-      <Property Name="RunDuration">00:02:20</Property>
-      <Property Name="Status">Failed</Property>
+      <Property Name="LastRunTime">06/04/2020 12:42:11</Property>
+      <Property Name="RunDuration">00:02:33</Property>
+      <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="6.Run Macro.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/28/2020 16:25:54</Property>
-      <Property Name="RunDuration">00:00:52</Property>
+      <Property Name="LastRunTime">06/04/2020 12:42:11</Property>
+      <Property Name="RunDuration">00:01:47</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="7.Copy Data From Macro to Template.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/28/2020 16:25:53</Property>
-      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="LastRunTime">06/04/2020 12:42:09</Property>
+      <Property Name="RunDuration">00:00:50</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
-  <Entity Name="9.Email Park Document No.atmx">
+  <Entity Name="8.Email Park Document No.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/29/2020 02:16:49</Property>
-      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="LastRunTime">06/04/2020 12:42:08</Property>
+      <Property Name="RunDuration">00:00:37</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="Login Frontier.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/28/2020 16:45:34</Property>
-      <Property Name="RunDuration">00:00:47</Property>
+      <Property Name="LastRunTime">06/04/2020 12:42:12</Property>
+      <Property Name="RunDuration">00:03:13</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -75,13 +75,6 @@
       <Property Name="LastRunTime">05/29/2020 02:01:08</Property>
       <Property Name="RunDuration">00:00:43</Property>
       <Property Name="Status">Complete</Property>
-    </Properties>
-  </Entity>
-  <Entity Name="8.SAP Upload.atmx">
-    <Properties>
-      <Property Name="LastRunTime">05/29/2020 02:21:27</Property>
-      <Property Name="RunDuration">00:00:19</Property>
-      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
 </Entities>
